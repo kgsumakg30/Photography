@@ -1,0 +1,49 @@
+.bgimage {
+    height: 60vh;
+    background: url('h11.jpg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;}
+    .bgimage1 {
+    height:60vh;
+    background: url('h12.jpg');
+    background-size:cover;
+    position:relative;
+    background-repeat: no-repeat;
+}
+ .bgimage2 {
+    height:60vh;
+    background: url('h13.jpg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;
+}
+
+.bgimage3 {
+    height: 60vh;
+    background: url('download (1).jpeg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;}
+    .bgimage4 {
+    height:60vh;
+    background: url('download.jpeg');
+    background-size:cover;
+    position:relative;
+    background-repeat: no-repeat;
+}
+ .bgimage6 {
+    height:60vh;
+    background: url('bg1.jpg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;
+}
+
+.bgimage5 {
+    height:60vh;
+    background: url('h11.jpg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;
+}

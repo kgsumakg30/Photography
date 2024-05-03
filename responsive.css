@@ -1,0 +1,129 @@
+@media screen and (max-width: 996px) {
+   .pos1{
+        top: 9% !important;
+        left: 10% !important;
+        right:10%!important;
+
+    }
+    .font16{
+        font-size: 16px!important;
+    }
+    .carousel-control-prev{
+        top: 74% !important;
+        left:4% !important
+    }
+    .carousel-control-next{
+        top: 74% !important;
+    }
+    .textpos{
+        top: 75% !important;
+        left: 0% !important;
+    }
+    .pt16{
+        padding-top: 16px!important;
+    }
+    .bgimage {
+    height: 43vh;
+    background: url('h11.jpg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;}
+    .bgimage1 {
+    height:43h;
+    background: url('h12.jpg');
+    background-size:cover;
+    position:relative;
+    background-repeat: no-repeat;
+}
+ .bgimage2 {
+    height:43vh;
+    background: url('h13.jpg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;
+}
+.bgimage5 {
+    height:40vh;
+    background: url('h11.jpg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;
+}
+  }
+@media screen and (max-width: 596px) {
+    .pos1{
+        top: 9% !important;
+        left: 10% !important;
+        right:10%!important;
+
+    }
+    .font16{
+        font-size: 16px!important;
+    }
+    .carousel-control-prev{
+        top: 74% !important;
+        left:4% !important
+    }
+    .carousel-control-next{
+        top: 74% !important;
+    }
+    .textpos{
+        top: 75% !important;
+        left: 0% !important;
+    }
+    .pt16{
+        padding-top: 16px!important;
+    }
+    .bgimage5{
+      height:46vh !important;  
+    }
+    .w100{
+        width: 100%!important;
+    }
+    .W50{
+        width: 50%!important;
+    }
+
+    .bgimage3 {
+    height: 30vh;
+    background: url('download (1).jpeg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;}
+    .bgimage4 {
+    height:30vh;
+    background: url('download.jpeg');
+    background-size:cover;
+    position:relative;
+    background-repeat: no-repeat;
+}
+ .bgimage6 {
+    height:30vh;
+    background: url('bg1.jpg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;
+}
+
+.bgimage {
+    height: 40vh;
+    background: url('h11.jpg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;}
+    .bgimage1 {
+    height:50h;
+    background: url('h12.jpg');
+    background-size:cover;
+    position:relative;
+    background-repeat: no-repeat;
+}
+ .bgimage2 {
+    height:50vh;
+    background: url('h13.jpg');
+    background-size:cover;
+    position:relative;
+     background-repeat: no-repeat;
+}
+
+  }
